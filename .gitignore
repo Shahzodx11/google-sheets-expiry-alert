@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Node and dependencies (если случайно подтянешь через clasp)
+node_modules/
+package-lock.json
