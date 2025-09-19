@@ -43,3 +43,11 @@ Triggers → Add Trigger
 Бесплатно (использует только Google Sheets + Apps Script).
 Удобно и прозрачно.
 Не требует сторонних лицензий.
+
+# Google Sheets Visa & Registration Reminder
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Made with Google Apps Script](https://img.shields.io/badge/Made%20with-Google%20Apps%20Script-brightgreen)](https://developers.google.com/apps-script)
+
+Этот скрипт помогает отслеживать сроки окончания виз и автоматически отправлять уведомления по email.
+
